@@ -1,0 +1,49 @@
+/* CSS Document */
+body {
+    font-family: 'Merriweather', sans-serif;
+    font-weight: 100;
+    background-color: #FEE3FC;
+}
+h1, h2, h3 {
+    font-family: 'Merriweather', Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif" ;
+}
+a {
+    color: #25333A;
+}
+a:hover {
+    color:#F59355;
+    text-decoration: none;
+}
+.btn-primary {
+    background-color: #A3A1A1;
+    color: #FFFFFF;
+    font-weight: 100;
+    border-color: #A3A1A1;
+}
+.btn-primary:hover {
+    background-color: #83CDDF;
+    border-color: #FFD0A0;
+}
+.final-project-header{
+    background-color: #FEE3FC;
+    color: #ffffff;
+    padding-top: 2em;
+    padding-bottom: 2em;
+}
+.unsplash-header h1 small {
+    font-size: .35em;
+    font-family: 'Merriweather', sans-serif;
+    font-weight: 100;
+}
+.final-project-header a {
+    color: #83CDDF;
+    text-decoration: none;
+}
+.unsplash-header a:hover {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+
+
+
